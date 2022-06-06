@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "814631971260",
+    "project_id": "amis-fd88a",
+    "storage_bucket": "amis-fd88a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814631971260:android:4093c7023c12dfe29b23b9",
+        "android_client_info": {
+          "package_name": "com.app.amis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814631971260-qrk0foklmgn619fjgghkhu0eb24ttr9f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.amis",
+            "certificate_hash": "b493ece990084eefccfc88bee990ad6dda4f1fd4"
+          }
+        },
+        {
+          "client_id": "814631971260-t0e19uoirc2j20ss3sbf30n0vecnvnl3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpMyZe2z75t0wOsk_oEGsP6xiTHDV-5WQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814631971260-t0e19uoirc2j20ss3sbf30n0vecnvnl3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
